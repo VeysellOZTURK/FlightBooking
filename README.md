@@ -45,5 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, please contact me at: [veyselozturkeng@gmail.com](mailto:veyselozturkeng@gmail.com)
+If you have any questions or feedback, please contact me at: [veyselozturkeng@gmail.com](mailto:veyselozturkeng@gmail.com) or [info@veyselozturk.com.tr](mailto:info@veyselozturk.com.tr)
 
