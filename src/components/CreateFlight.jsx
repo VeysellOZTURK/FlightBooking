@@ -22,7 +22,7 @@ const CreateFlight = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         axios.post('http://localhost:3001/add', flightInfo)
-            .then((res) => console.log(res.data))
+            .then((res) => console.log(res.data));
             .catch((err) => console.log(err));
         console.log(flightInfo);
     };
